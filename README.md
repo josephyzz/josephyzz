@@ -7,6 +7,6 @@ Always exploring new technologies and working on projects that make a real impac
 
 Feel free to reach out:
 
-* **LinkedIn:** [linkedin.com/in/miguel.j0se](www.linkedin.com/in/miguelj0se)
+* **LinkedIn:** [linkedin.com/in/miguel.j0se](https://www.linkedin.com/in/miguelj0se)
 * **Email:** [miguelneto275@gmail.com](mailto:miguelneto275@gmail.com)
 * **Portfolio:** [https://migueljose.com](https://portifolio-kappa-bay-55.vercel.app/?_vercel_share=vDlrZlaEcuDy9G9VE5U5Uet6t6N1E2W5)
